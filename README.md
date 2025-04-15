@@ -17,9 +17,6 @@ This thoughtful approach ensures that the dashboard is both robust and aligned w
 
 ---
 
-Se quiser ajustar ou incluir mais detalhes nessa seção, me avise! Ela é uma ótima oportunidade de mostrar não apenas o resultado do trabalho, mas também as habilidades e o raciocínio estratégico por trás dele. 😊
-
-
 ## Visuals and Features
 
 ### General Analysis Tab
@@ -105,6 +102,9 @@ VAR vRevenue_LY = CALCULATE(
 RETURN
 IF(HASONEVALUE(dCalendario[Ano]), vRevenue_LY)
 {% endraw %}
+
+---
+
 
 Insights and Results
 This dashboard provides critical insights for businesses, enabling informed decision-making:
