@@ -8,7 +8,7 @@ This dashboard delivers a comprehensive analysis of sales performance, incorpora
 ## Visuals and Features
 
 ### General Analysis Tab
-- **Column Chart**: {% raw %}Total Revenue vs. Last Year Revenue{% endraw %}, offering a clear comparison of financial performance over time.
+- **Column Chart**: Total Revenue vs. Last Year Revenue, offering a clear comparison of financial performance over time.
 - **Bar Chart with Tooltips**: {% raw %}Highlights top product categories by revenue{% endraw %}, with tooltips that drill down to reveal the {% raw %}top 5 best-selling products within each category{% endraw %}.
 - **Matrix**: A detailed breakdown of:
   - {% raw %}Total Revenue{% endraw %}
