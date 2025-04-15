@@ -36,51 +36,46 @@ This dashboard delivers a comprehensive analysis of sales performance, incorpora
 
 ---
 
-Development Process
+## {% raw %}Development Process{% endraw %}
 The creation of this dashboard involved thoughtful decisions and best practices to ensure a high-quality, insightful tool for analysis. Below are some key points about the development process:
 
-Fictional Data: All data used in this project is fictional, ensuring there are no concerns regarding confidentiality or proprietary information.
+- **Fictional Data**: {% raw %}All data used in this project is fictional, ensuring there are no concerns regarding confidentiality or proprietary information.{% endraw %}
+- **Excel File Consistency**: {% raw %}To maintain consistency and avoid the need for frequent updates, we chose not to manipulate the original Excel files. Instead, all necessary transformations were performed in Power Query.{% endraw %}
+- **Optimized Data Model**: {% raw %}Modifications in Power Query focused on eliminating unnecessary columns, streamlining the dataset, and improving performance.{% endraw %}
+- **Preference for Measures**: {% raw %}Instead of creating calculated columns, we prioritized DAX measures to handle formulas. This approach reduced the computational load on Power BI and ensured better performance.{% endraw %}
+- **Relevant Insights**: {% raw %}Every formula and visual was built with the end user in mind. We consistently asked, “What information is most relevant and meaningful to a business owner, CEO, or decision-maker?” This mindset drove the design of KPIs and interactivity.{% endraw %}
+- **Dynamic and Adaptive**: {% raw %}The dashboard was structured to adapt to varying business needs through dynamic filters, tooltips, and interactive visuals.{% endraw %}
 
-Excel File Consistency: To maintain consistency and avoid the need for frequent updates, we chose not to manipulate the original Excel files. Instead, all necessary transformations were performed in Power Query.
+---
 
-Optimized Data Model: Modifications in Power Query focused on eliminating unnecessary columns, streamlining the dataset, and improving performance.
-
-Preference for Measures: Instead of creating calculated columns, we prioritized DAX measures to handle formulas. This approach reduced the computational load on Power BI and ensured better performance.
-
-Relevant Insights: Every formula and visual was built with the end user in mind. We consistently asked, “What information is most relevant and meaningful to a business owner, CEO, or decision-maker?” This mindset drove the design of KPIs and interactivity.
-
-Dynamic and Adaptive: The dashboard was structured to adapt to varying business needs through dynamic filters, tooltips, and interactive visuals.
-
-Insights and Results
+## {% raw %}Insights and Results{% endraw %}
 This dashboard provides critical insights for businesses, enabling informed decision-making:
 
-{% raw %}Identify top-performing products and stores{% endraw %} to optimize strategies and inventory.
+- {% raw %}Identify top-performing products and stores{% endraw %} to optimize strategies and inventory.
+- {% raw %}Analyze return trends{% endraw %} to improve customer satisfaction and reduce lost revenue.
+- {% raw %}Track annual revenue and profit growth{% endraw %} to assess long-term performance.
+- {% raw %}Leverage dynamic filters{% endraw %} for granular exploration of data across continents, countries, and categories.
 
-{% raw %}Analyze return trends{% endraw %} to improve customer satisfaction and reduce lost revenue.
+---
 
-{% raw %}Track annual revenue and profit growth{% endraw %} to assess long-term performance.
+## {% raw %}Tools Used{% endraw %}
+- **Power BI**: {% raw %}For dynamic data visualization and advanced analytics.{% endraw %}
+- **DAX**: {% raw %}For creating custom measures and calculations.{% endraw %}
+- **Excel**: {% raw %}Data preprocessing and management.{% endraw %}
 
-{% raw %}Leverage dynamic filters{% endraw %} for granular exploration of data across continents, countries, and categories.
+---
 
-Tools Used
-Power BI: For dynamic data visualization and advanced analytics.
+## {% raw %}How This Dashboard Stands Out{% endraw %}
+- **Interactive Features**: {% raw %}Hidden filter panels, tooltips, and play axis enhance user experience.{% endraw %}
+- **Optimized Performance**: {% raw %}Use of measures reduces computational load.{% endraw %}
+- **Customizable Visuals**: {% raw %}Data story visuals dynamically adjust based on real-time changes.{% endraw %}
 
-DAX: For creating custom measures and calculations.
+---
 
-Excel: Data preprocessing and management.
+## {% raw %}Next Steps{% endraw %}
+- {% raw %}Publish the dashboard on Power BI Service for public access.{% endraw %}
+- {% raw %}Expand the analysis to include forecasting and predictive insights.{% endraw %}
+- {% raw %}Integrate with other dashboards in future projects for portfolio expansion.{% endraw %}
 
-How This Dashboard Stands Out
-Interactive Features: Hidden filter panels, tooltips, and play axis enhance user experience.
-
-Optimized Performance: Use of measures reduces computational load.
-
-Customizable Visuals: Data story visuals dynamically adjust based on real-time changes.
-
-Next Steps
-Publish the dashboard on Power BI Service for public access.
-
-Expand the analysis to include forecasting and predictive insights.
-
-Integrate with other dashboards in future projects for portfolio expansion.
 
 
