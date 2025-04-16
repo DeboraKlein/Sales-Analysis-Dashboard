@@ -7,7 +7,7 @@ This dashboard delivers a comprehensive analysis of sales performance, incorpora
 
 ## 🚀 Explore the Dashboard
 Get insights and visualize the data in our interactive dashboard!  
-🔗 [Access the Dashboard](<iframe title="Hashtag Eletro" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzc3MzM5ZTAtZGE0MS00OTRlLTk4ZDUtN2MzOTAyMzk3NGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+🔗 [Access the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3MzM5ZTAtZGE0MS00OTRlLTk4ZDUtN2MzOTAyMzk3NGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 
 
