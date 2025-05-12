@@ -12,14 +12,9 @@ Get insights and visualize the data in our interactive dashboard!
 ## 📸 Dashboard Preview  
 Here are three snapshots of the dashboard:  
 
-![Dashboard Overview 1](![Overview1](https://github.com/user-attachments/assets/0151007b-aa7b-4ce0-a11c-ebe727e55bd5)
-)  
-![Dashboard Overview 2](![Overview2](https://github.com/user-attachments/assets/56764e06-1447-438a-8c34-f3c61b7d0d22)
-)  
-![Dashboard Overview 3](![Overview3](https://github.com/user-attachments/assets/e3d245b9-8a0a-4652-9a1d-2bb614d64f4b)
-)  
-
-
+![Dashboard Overview 1](https://github.com/user-attachments/assets/0151007b-aa7b-4ce0-a11c-ebe727e55bd5)  
+![Dashboard Overview 2](https://github.com/user-attachments/assets/56764e06-1447-438a-8c34-f3c61b7d0d22)  
+![Dashboard Overview 3](https://github.com/user-attachments/assets/e3d245b9-8a0a-4652-9a1d-2bb614d64f4b)  
 
 
 ## Visuals and Features
