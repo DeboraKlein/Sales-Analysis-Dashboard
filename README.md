@@ -9,6 +9,17 @@ This dashboard delivers a comprehensive analysis of sales performance, incorpora
 Get insights and visualize the data in our interactive dashboard!  
 🔗 [Access the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3MzM5ZTAtZGE0MS00OTRlLTk4ZDUtN2MzOTAyMzk3NGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
+## 📸 Dashboard Preview  
+Here are three snapshots of the dashboard:  
+
+![Dashboard Overview 1](![Overview1](https://github.com/user-attachments/assets/0151007b-aa7b-4ce0-a11c-ebe727e55bd5)
+)  
+![Dashboard Overview 2](![Overview2](https://github.com/user-attachments/assets/56764e06-1447-438a-8c34-f3c61b7d0d22)
+)  
+![Dashboard Overview 3](![Overview3](https://github.com/user-attachments/assets/e3d245b9-8a0a-4652-9a1d-2bb614d64f4b)
+)  
+
+
 
 
 ## Visuals and Features
@@ -82,6 +93,9 @@ This dashboard provides critical insights for businesses, enabling informed deci
 - Publish the dashboard on Power BI Service for public access.
 - Expand the analysis to include forecasting and predictive insights.
 - Integrate with other dashboards in future projects for portfolio expansion.
+
+  
+
 
 
 
