@@ -33,7 +33,7 @@ CALCULATE(
 % growth MoM = DIVIDE([Total Revenue]-[Faturamento Mês Anterior],[Faturamento Mês Anterior],"Sem Histórico")
 
 ````
-Choose Analysis 2
+### Choose Analysis 2
 ````
 Choose Analysis 2 = {
     ("Total Revenue", NAMEOF('Medidas'[Total Revenue]), 0),
@@ -41,7 +41,7 @@ Choose Analysis 2 = {
 }
 
 ````
-Choose analysis
+### Choose analysis
 ````
 Choose analysis = {
     ("Total Revenue", NAMEOF('Medidas'[Total Revenue]), 0),
