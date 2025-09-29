@@ -1,15 +1,15 @@
-📊 Painel de Análise de Vendas
+# 📊 Painel de Análise de Vendas
 Visão Geral
 Este painel oferece uma análise abrangente do desempenho de vendas, incorporando cálculos avançados, visuais dinâmicos e recursos interativos. Otimizado com o uso de medidas, garante alto desempenho no Power BI e fornece insights acionáveis para decisões estratégicas.
 
-🚀 Explore o Painel
+## 🚀 Explore o Painel
 Obtenha insights e visualize os dados em nosso painel interativo! 🔗 Acesse o Painel
 
-📸 Prévia do Painel
+## 📸 Prévia do Painel
 Veja abaixo três capturas de tela do painel:
 
 
-Visualizações e Funcionalidades
+## Visualizações e Funcionalidades
 Aba de Análise Geral
 Gráfico de Colunas: Receita Total vs. Receita do Ano Anterior, comparando o desempenho financeiro ao longo do tempo.
 
@@ -23,7 +23,7 @@ Lucro Total
 
 Quantidade Vendida, agregada por continente, com drilldown para análise por país.
 
-Aba de Análise de Indicadores
+## Aba de Análise de Indicadores
 Gráfico de Árvore com Segmentador: Visualiza Receita Total ou Quantidade Vendida, selecionável via segmentador, por marca, categoria e produto.
 
 Painel de Filtros Oculto: Permite filtrar por período, continentes e países, ativado por botões para uma interface limpa.
@@ -36,7 +36,7 @@ Produto Mais Vendido: Atualiza automaticamente com o produto mais vendido, inclu
 
 Loja com Maior Venda: Exibe a loja com maior número de vendas, detalhando unidades vendidas e contribuição percentual.
 
-Aba de Análise de Devoluções
+## Aba de Análise de Devoluções
 Cartões com Métricas-Chave:
 
 Receita Perdida: Impacto financeiro das devoluções.
@@ -55,7 +55,7 @@ Gráfico de Colunas: Percentual de devoluções por marca.
 
 Visual com Eixo de Reprodução: Cicla dinamicamente pelas categorias de produto, filtrando todos os visuais.
 
-Processo de Desenvolvimento
+## Processo de Desenvolvimento
 Dados Ficcionais: Todos os dados são fictícios, sem riscos de confidencialidade.
 
 Consistência no Excel: Transformações feitas no Power Query, sem alterar os arquivos originais.
@@ -68,7 +68,7 @@ Insights Relevantes: Foco em informações úteis para tomadores de decisão.
 
 Estrutura Dinâmica: Filtros, tooltips e visuais interativos adaptáveis às necessidades do negócio.
 
-Insights e Resultados
+## Insights e Resultados
 Identifique produtos e lojas com melhor desempenho.
 
 Analise tendências de devoluções para reduzir perdas.
@@ -77,21 +77,21 @@ Acompanhe crescimento anual de receita e lucro.
 
 Explore dados por continente, país e categoria com filtros dinâmicos.
 
-Ferramentas Utilizadas
+## Ferramentas Utilizadas
 Power BI: Visualização dinâmica e análise avançada.
 
 DAX: Criação de medidas e cálculos personalizados.
 
 Excel: Pré-processamento e gestão de dados.
 
-Diferenciais do Painel
+## Diferenciais do Painel
 Recursos Interativos: Filtros ocultos, tooltips e eixo de reprodução.
 
 Desempenho Otimizado: Uso de medidas para menor carga computacional.
 
 Visuais Personalizáveis: Visuais que se ajustam dinamicamente às mudanças nos dados.
 
-Próximos Passos
+## Próximos Passos
 Publicar o painel no Power BI Service para acesso público.
 
 Expandir a análise com previsões e insights preditivos.
