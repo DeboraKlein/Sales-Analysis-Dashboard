@@ -3,7 +3,8 @@
 Este painel interativo oferece uma análise completa do desempenho de vendas, com cálculos avançados, visualizações dinâmicas e recursos intuitivos. Otimizado com medidas DAX, garante alta performance no Power BI e entrega insights estratégicos para tomada de decisão.
 
 ## 🚀 Acesse o Painel
-Explore os dados e descubra oportunidades com o painel interativo: 🔗 Abrir no Power BI
+Explore os dados e descubra oportunidades com o painel interativo: 
+🔗 [Abrir no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzc3MzM5ZTAtZGE0MS00OTRlLTk4ZDUtN2MzOTAyMzk3NGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ## 📸 Prévia Visual
 Confira abaixo três capturas do painel:
