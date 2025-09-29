@@ -9,6 +9,10 @@ Explore os dados e descubra oportunidades com o painel interativo:
 ## 📸 Prévia Visual
 Confira abaixo três capturas do painel:
 
+![Visão Geral página 1](https://github.com/user-attachments/assets/0151007b-aa7b-4ce0-a11c-ebe727e55bd5)  
+![Visão Geral página 2](https://github.com/user-attachments/assets/56764e06-1447-438a-8c34-f3c61b7d0d22)  
+![Visão Geral página 3](https://github.com/user-attachments/assets/e3d245b9-8a0a-4652-9a1d-2bb614d64f4b)
+
 
 ## 🔍 Principais Abas e Funcionalidades
 ### 📈 Análise Geral
