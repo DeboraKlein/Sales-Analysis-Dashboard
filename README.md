@@ -5,11 +5,11 @@ This dashboard delivers a comprehensive analysis of sales performance, incorpora
 
 ---
 
-## 🚀 Explore the Dashboard
+## Explore the Dashboard
 Get insights and visualize the data in our interactive dashboard!  
 🔗 [Access the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3MzM5ZTAtZGE0MS00OTRlLTk4ZDUtN2MzOTAyMzk3NGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-## 📸 Dashboard Preview  
+## Dashboard Preview  
 Here are three snapshots of the dashboard:  
 
 ![Dashboard Overview 1](https://github.com/user-attachments/assets/0151007b-aa7b-4ce0-a11c-ebe727e55bd5)  
